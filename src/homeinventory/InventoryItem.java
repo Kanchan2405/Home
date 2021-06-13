@@ -10,5 +10,17 @@ package homeinventory;
  * @author User
  */
 class InventoryItem {
+
+    String item;
+    String location;
+    String id;
+    boolean marked;
+    boolean marked;
+    String price;
+    String date;
+    String src;
+    String src;
+    String note;
+    String store;
     
 }
